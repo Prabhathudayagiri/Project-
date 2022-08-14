@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\collisionAlgorithm-master"
+		},
+		{
+			"path": "..\\bounceOffAlgorithm-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "collisionAlgorithm-master"
+	}
+}
